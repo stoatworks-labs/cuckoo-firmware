@@ -1,0 +1,20 @@
+Cuckoo firmware images
+Copyright (c) 2026 Stoatworks Labs. All rights reserved.
+
+The source of this firmware is not public. You may, free of charge:
+
+  - download the firmware images released in this repository;
+  - write them to a Cuckoo, or to hardware you have built from its published design;
+  - pass them on unmodified, with this notice and THIRD-PARTY-NOTICES.md.
+
+No other right is granted. The Stoatworks Labs name and mark are not licensed.
+
+The images contain third-party software under its own licences, listed in
+THIRD-PARTY-NOTICES.md with each licence's full text in third-party/. Nothing here
+limits what those licences allow for their own parts.
+
+THE IMAGES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE IMAGES OR THEIR USE.
